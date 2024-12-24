@@ -1,1 +1,1 @@
-# CheckEase
+# OneCheck
